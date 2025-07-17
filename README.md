@@ -6,7 +6,7 @@ This project performs exploratory data analysis (EDA) on a heart disease dataset
 
 ## Project Structure
 
-- `Heart_Disease_EDA.ipynb`: Main notebook containing all analysis steps.
+- `heart_disease_eda.ipynb`: Main notebook containing all analysis steps.
 - `data/Heart_Disease_Data.csv`: Dataset used for exploration.
 - `images/`: Folder containing saved plots used in the notebook and README.
 
